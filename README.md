@@ -8,7 +8,7 @@
 ```javascript
 function win() {
   var win = 'Lets win!'
-  return win;
+  document.write(win);
 }
 
 while (true) {
