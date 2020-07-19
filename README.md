@@ -11,9 +11,7 @@ function win() {
   document.write(win);
 }
 
-while (true) {
-   win()
-}
+win()
 ```
 
  
