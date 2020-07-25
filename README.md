@@ -1,12 +1,12 @@
 ![header](https://capsule-render.vercel.app/api?type=wave&color=timeGradient&height=300&section=header&text=Hi%20There%20👋&fontSize=90)<br>
-[![방문자](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Finjoon5)](https://GitHub.com/injoon5/)[![커스텀1](https://injoon5.github.io/Injoon5/badge/oijbadge.svg)](https://GitHub.com/injoon5/)[![커스텀2](https://injoon5.github.io/Injoon5/badge/oijbadge1.svg)](https://juniorsoftwarecup.com)
+[![방문자](https://gpvc.arturio.dev/injoon5)](https://GitHub.com/injoon5/)[![커스텀1](https://injoon5.github.io/Injoon5/badge/oijbadge.svg)](https://GitHub.com/injoon5/)[![커스텀2](https://injoon5.github.io/Injoon5/badge/oijbadge1.svg)](https://juniorsoftwarecup.com)
 - 🔭 저는 현재 삼성 소프트웨어 창작 대회를 @codingcup04 와 
      @sean2010과 준비하고 있습니다. 
 - 🌱 현재 HTML, CSS, JavaScript 를 배워가고 있습니다.
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/injoon5)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg' alt='codepen' height='40'>](https://codepen.io/injoon5)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](http://injoon5.ga)  
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=injoon5&show_icons=true)  ![Profile views](https://gpvc.arturio.dev/injoon5)  
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=injoon5&show_icons=true)  
 
 
 ### Life's code
