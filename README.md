@@ -20,6 +20,7 @@
 function win() {
   var win = 'Lets win!';
   document.write(win);
+  console.log(win)
 }
 
 win();
