@@ -18,11 +18,11 @@
 
 ```javascript
 function win() {
-  var win = 'Lets win!'
+  var win = 'Lets win!';
   document.write(win);
 }
 
-win()
+win();
 ```
 
 
