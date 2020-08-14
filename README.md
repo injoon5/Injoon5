@@ -12,7 +12,7 @@
      @sean2010과 준비하고 있습니다. 
 - 🌱 현재 HTML, CSS, JavaScript 를 배워가고 있습니다.
 
-[<img src='https://github.githubassets.com/images/icons/emoji/octocat.png' alt='Octocat' height='40'>](https://github.com/injoon5)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg' alt='codepen' height='40'>](https://codepen.io/injoon5)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](http://injoon5.ga)  
+[<img src='https://github.githubassets.com/images/icons/emoji/octocat.png' alt='Octocat' height='40'>](https://github.com/injoon5)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg' alt='codepen' height='40'>](https://codepen.io/injoon5)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](http://injoon5.ga) [![오인준's DEV Profile](https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg)](https://dev.to/injoon5)  
 
 
 
