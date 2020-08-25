@@ -9,7 +9,7 @@
 
 - 🤝 I’m looking for help with **installing forem**
 
-- 👨‍💻 All of my projects are available at [/injoon5](/injoon5)
+- 👨‍💻 All of my projects are available at [https://github.com/injoon5](https://github.com/injoon5)
 
 - 📝 I regulary write articles on [https://dev.to/injoon5](https://dev.to/injoon5)
 
