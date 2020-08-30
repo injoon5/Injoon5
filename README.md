@@ -15,6 +15,80 @@
 
 
 <!--START_SECTION:waka-->
+![Profile Views](http://img.shields.io/badge/Profile%20Views-101-blue)
+
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-235731%20lines%20of%20code-blue)
+
+**🐱 My Github Data** 
+
+> 🏆 563 Contributions in the Year 2020
+ > 
+> 📦 390.7 kB Used in Github's Storage 
+ > 
+> 🚫 Not Opted to Hire
+ > 
+> 📜 92 Public Repositories
+ > 
+> 🔑 0 Private Repository 
+ > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning    54 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.13% 
+🌆 Daytime    254 commits    ██████████████░░░░░░░░░░░   57.08% 
+🌃 Evening    135 commits    ███████░░░░░░░░░░░░░░░░░░   30.34% 
+🌙 Night      2 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.45%
+
+```
+📅 **I'm Most Productive on Wednesday** 
+
+```text
+Monday       77 commits     ████░░░░░░░░░░░░░░░░░░░░░   17.3% 
+Tuesday      17 commits     █░░░░░░░░░░░░░░░░░░░░░░░░   3.82% 
+Wednesday    97 commits     █████░░░░░░░░░░░░░░░░░░░░   21.8% 
+Thursday     47 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.56% 
+Friday       95 commits     █████░░░░░░░░░░░░░░░░░░░░   21.35% 
+Saturday     56 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.58% 
+Sunday       56 commits     ███░░░░░░░░░░░░░░░░░░░░░░   12.58%
+
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+⌚︎ Time Zone: Asia/Seoul
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+
+```
+
+**I Mostly Code in HTML** 
+
+```text
+HTML                     11 repos            ██████████░░░░░░░░░░░░░░░   40.74% 
+JavaScript               8 repos             ███████░░░░░░░░░░░░░░░░░░   29.63% 
+CSS                      7 repos             ██████░░░░░░░░░░░░░░░░░░░   25.93% 
+Python                   1 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   3.7%
+
+```
+
+
+**Timeline**
+
+![Chart not found](https://github.com/injoon5/injoon5/blob/master/charts/bar_graph.png) 
+
+
 <!--END_SECTION:waka-->
 
 
