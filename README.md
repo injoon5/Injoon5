@@ -14,19 +14,8 @@
 
 
 
-
-### Life's code
-
-```javascript
-function win() {
-  var win = 'Lets win!';
-  document.write(win);
-  console.log(win)
-}
-
-win();
-
-```
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 
  
