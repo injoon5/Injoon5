@@ -1,10 +1,10 @@
 [![header](https://capsule-render.vercel.app/api?type=wave&color=timeGradient&height=300&section=header&text=Hi%20There%20👋&fontSize=90)](https://github.com/injoon5)<br>
 
-// 여기부터
+<!-- 여기부터 --!>
 - 🔭 URL  단축기를 @codingcup04 와 
      @sean2010과 준비하고 있습니다. 
 - 🌱 현재 HTML, CSS, JavaScript 를 배워가고 있습니다.
-// 여기 
+<!-- 여기 --!>
 
 
 <!--START_SECTION:waka-->
@@ -85,9 +85,9 @@ Python                   1 repos             █░░░░░░░░░░�
 <!--END_SECTION:waka-->
 
 ### I'm social!!!
-// 여기부터
+<!-- 여기부터 --!>
 [<img src='https://github.githubassets.com/images/icons/emoji/octocat.png' alt='Octocat' height='40'>](https://github.com/injoon5)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg' alt='codepen' height='40'>](https://codepen.io/injoon5)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg' alt='dev.to' height='40'>](https://dev.to/injoon5)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](http://injoon5.ga) <br>
-// 여기도
+<!-- 여기 --!>
 
 ### Jokes
 ![Jokes Card](https://readme-jokes.vercel.app/api)
