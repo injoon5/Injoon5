@@ -3,10 +3,10 @@
 <!-- 여기부터 --!>
 - 🔭 URL  단축기를 @codingcup04 와 
      @sean2010과 준비하고 있습니다. <br>
-- 🌱 현재 HTML, CSS, JavaScript 를 배워가고 있습니다.<br>
+- 🌱 현재 HTML, CSS, JavaScript 를 배워가고 있습니다.
 <!-- 여기 --!>
 
-
+<br>
 <!--START_SECTION:waka-->
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-223-blue)
 
