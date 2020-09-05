@@ -93,7 +93,7 @@ Python                   1 repos             █░░░░░░░░░░�
 ### Jokes
 ![Jokes Card](https://readme-jokes.vercel.app/api)
 
-### 이런 readme.md 만드려면 여기(준비중) 으로 오세요!!!
+
 
 
 
