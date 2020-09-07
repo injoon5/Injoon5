@@ -1,12 +1,18 @@
 [![header](https://capsule-render.vercel.app/api?type=wave&color=timeGradient&height=300&section=header&text=Hi%20There%20👋&fontSize=90)](https://github.com/injoon5)<br>
 
-### injoon5 ![entflower](http://g.injoon5.ga/svg/flower_entry.svg)<img src="http://g.injoon5.ga/svg/flower_entry.svg">
+### injoon5 ![entflower](http://g.injoon5.ga/svg/flower_entry.svg)
 
 - 🔭 URL  단축기를 @codingcup04 와 
      @sean2010과 준비하고 있습니다. <br>
 - 🌱 현재 HTML, CSS, JavaScript 를 배워가고 있습니다.
 
+```text
+MEMO:엔트리 꽃
+<img src="/img/assets/art/admin.svg" ng-if="adminList.indexOf(article.owner) !== -1" class="ng-scope">
 
+닉네임을 우클릭->검사->Edit as html
+닉네임 코드 앞부분에 위의 코드를 붙여넣기한다.
+```
 
 <!--START_SECTION:waka-->
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-220-blue)
