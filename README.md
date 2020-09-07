@@ -8,7 +8,7 @@
 
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-219-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-220-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-6.9%20million%20lines%20of%20code-blue)
 
@@ -20,7 +20,7 @@
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 77 Public Repositories
+> 📜 79 Public Repositories
  > 
 > 🔑 0 Private Repository 
  > 
