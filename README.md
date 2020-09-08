@@ -5,6 +5,7 @@
 - 🔭 URL  단축기를 @codingcup04 와 
      @sean2010과 준비하고 있습니다. <br>
 - 🌱 현재 HTML, CSS, JavaScript 를 배워가고 있습니다.
+- npm card : npx injoon5
 
 ```text
 MEMO:엔트리 꽃
