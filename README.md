@@ -16,7 +16,7 @@
 	<br>
 </div>
 
-# ![entflower](http://g.injoon5.ga/svg/flower_entry.svg) injoon5
+
 
 - 🔭 URL  단축기를 @codingcup04 와 
      @sean2010과 준비하고 있습니다. <br>
