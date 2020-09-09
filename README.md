@@ -1,5 +1,3 @@
-[![header](https://capsule-render.vercel.app/api?type=wave&color=timeGradient&height=300&section=header&text=Hi%20There%20👋&fontSize=90)](https://github.com/injoon5)<br>
-
 <div align="center">
 	<img width="500" height="500" src="https://avatars2.githubusercontent.com/u/52849281?s=1000&v=4 " alt="injoon5">
 	<br>
