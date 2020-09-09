@@ -4,7 +4,7 @@
 	<p>
 		<p>
 			<sup>
-				<h2 href="https://github.com/injoon5">injoon5</h2>
+				<h1 href="https://github.com/injoon5">injoon5</h1>
 			</sup>
 		</p>
 		<br>
@@ -13,8 +13,6 @@
 	<br>
 	<br>
 </div>
-
-
 
 - 🔭 URL  단축기를 @codingcup04 와 
      @sean2010과 준비하고 있습니다. <br>
