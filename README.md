@@ -1,5 +1,21 @@
 [![header](https://capsule-render.vercel.app/api?type=wave&color=timeGradient&height=300&section=header&text=Hi%20There%20👋&fontSize=90)](https://github.com/injoon5)<br>
 
+<div align="center">
+	<img width="500" height="350" src="https://avatars2.githubusercontent.com/u/52849281?s=1000&v=4 " alt="injoon5">
+	<br>
+	<p>
+		<p>
+			<sup>
+				<h2 href="https://github.com/injoon5">injoon5</h2>
+			</sup>
+		</p>
+		<br>
+		<br>
+	</p>
+	<br>
+	<br>
+</div>
+
 # ![entflower](http://g.injoon5.ga/svg/flower_entry.svg) injoon5
 
 - 🔭 URL  단축기를 @codingcup04 와 
@@ -28,7 +44,7 @@ MEMO:엔트리 꽃
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 83 Public Repositories
+> 📜 82 Public Repositories
  > 
 > 🔑 0 Private Repository 
  > 
