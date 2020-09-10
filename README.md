@@ -37,7 +37,7 @@ MEMO:엔트리 꽃
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 82 Public Repositories
+> 📜 83 Public Repositories
  > 
 > 🔑 0 Private Repository 
  > 
