@@ -1,4 +1,4 @@
-name: Waka Readme
+name: Dynamic profile readme.md
 
 on:
   schedule:
