@@ -31,7 +31,7 @@ MEMO:엔트리 꽃
 
 **🐱 My Github Data** 
 
-> 🏆 614 Contributions in the Year 2020
+> 🏆 613 Contributions in the Year 2020
  > 
 > 📦 315.5 kB Used in Github's Storage 
  > 
