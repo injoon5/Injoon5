@@ -21,7 +21,7 @@
 ```text
 엔트리 꽃
 <img src="/img/assets/art/admin.svg" ng-if="adminList.indexOf(article.owner) !== -1" class="ng-scope">
-
+------------------------------
 닉네임을 우클릭->검사->Edit as html
 닉네임 코드 앞부분에 위의 코드를 붙여넣기한다.
 
