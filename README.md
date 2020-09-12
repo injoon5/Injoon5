@@ -14,17 +14,18 @@
 - 🔭 URL  단축기를 @codingcup04 와 
      @sean2010과 준비하고 있습니다. <br>
 - 🌱 현재 HTML, CSS, JavaScript 를 배워가고 있습니다.
-- ⌐■_■ npm card : npx injoon5<br>
+- ⌐■_■ npm card : npx injoon5
+
+###MEMO
 
 ```text
-MEMO:엔트리 꽃
+엔트리 꽃
 <img src="/img/assets/art/admin.svg" ng-if="adminList.indexOf(article.owner) !== -1" class="ng-scope">
 
 닉네임을 우클릭->검사->Edit as html
 닉네임 코드 앞부분에 위의 코드를 붙여넣기한다.
-```
-```text
-MEMO:이슈 자동 봇
+
+이슈 자동 봇
 https://github.com/marketplace/actions/comment-run-actions 참고.
 ```
 
