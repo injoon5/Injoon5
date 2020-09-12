@@ -32,17 +32,17 @@ https://github.com/marketplace/actions/comment-run-actions 참고.
 <!--START_SECTION:waka-->
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-370-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.7%20million%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-6.5%20million%20lines%20of%20code-blue)
 
 **🐱 My Github Data** 
 
 > 🏆 625 Contributions in the Year 2020
  > 
-> 📦 315.6 kB Used in Github's Storage 
+> 📦 269.7 kB Used in Github's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 84 Public Repositories
+> 📜 83 Public Repositories
  > 
 > 🔑 0 Private Repository 
  > 
@@ -80,10 +80,10 @@ No Activity Tracked This Week
 **I Mostly Code in HTML** 
 
 ```text
-HTML                     12 repos            █████████████░░░░░░░░░░░░   52.17% 
-CSS                      6 repos             ██████░░░░░░░░░░░░░░░░░░░   26.09% 
-JavaScript               4 repos             ████░░░░░░░░░░░░░░░░░░░░░   17.39% 
-Python                   1 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   4.35%
+HTML                     11 repos            ████████████░░░░░░░░░░░░░   50.0% 
+CSS                      6 repos             ██████░░░░░░░░░░░░░░░░░░░   27.27% 
+JavaScript               4 repos             ████░░░░░░░░░░░░░░░░░░░░░   18.18% 
+Python                   1 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   4.55%
 
 ```
 
