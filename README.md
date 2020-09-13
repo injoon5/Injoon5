@@ -12,7 +12,7 @@
 </div>
 
 - 🔭 URL  단축기를 @codingcup04 와 
-     @sean2010과 준비하고 있습니다.(https://oijlink.glitch.me) <br>
+     @sean2010과 준비하고 있습니다.(<a href="https://oijlink.glitch.me" target="_blank">Beta. Data coud be deleted.</a>) <br>
 - 🌱 현재 HTML, CSS, JavaScript 를 배워가고 있습니다.
 - ⌐■_■ npm card : npx injoon5
 
