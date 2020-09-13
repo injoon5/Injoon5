@@ -105,7 +105,7 @@ Python                   1 repos             █░░░░░░░░░░�
 ![Jokes Card](https://readme-jokes.vercel.app/api)
 
 ### Coments
-
+<div>
 <script src="https://utteranc.es/client.js"
         repo="injoon5/Injoon5"
         issue-term="pathname"
@@ -114,6 +114,7 @@ Python                   1 repos             █░░░░░░░░░░�
         crossorigin="anonymous"
         async>
 </script>
+</div>
 
 
 
