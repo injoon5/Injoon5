@@ -109,7 +109,7 @@ Python                   1 repos             █░░░░░░░░░░�
 <div>
 <script src="https://utteranc.es/client.js"
         repo="injoon5/Injoon5"
-        issue-term="pathname"
+        issue-term="url"
         label="💬"
         theme="github-light"
         crossorigin="anonymous"
