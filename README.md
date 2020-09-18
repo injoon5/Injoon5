@@ -80,10 +80,10 @@ No Activity Tracked This Week
 **I Mostly Code in HTML** 
 
 ```text
-HTML                     12 repos            ████████████░░░░░░░░░░░░░   50.0% 
-CSS                      6 repos             ██████░░░░░░░░░░░░░░░░░░░   25.0% 
-JavaScript               5 repos             █████░░░░░░░░░░░░░░░░░░░░   20.83% 
-Python                   1 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   4.17%
+HTML                     13 repos            █████████████░░░░░░░░░░░░   52.0% 
+CSS                      6 repos             ██████░░░░░░░░░░░░░░░░░░░   24.0% 
+JavaScript               5 repos             █████░░░░░░░░░░░░░░░░░░░░   20.0% 
+Python                   1 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   4.0%
 
 ```
 
