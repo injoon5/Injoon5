@@ -38,7 +38,7 @@ https://github.com/marketplace/actions/comment-run-actions 참고.
 
 > 🏆 638 Contributions in the Year 2020
  > 
-> 📦 316.4 kB Used in Github's Storage 
+> 📦 316.5 kB Used in Github's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
