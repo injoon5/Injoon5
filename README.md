@@ -30,7 +30,7 @@ https://github.com/marketplace/actions/comment-run-actions 참고.
 ```
 ### Status
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-270-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-272-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.9%20million%20lines%20of%20code-blue)
 
@@ -73,7 +73,7 @@ Sunday       49 commits     ██░░░░░░░░░░░░░░░�
 
 ```text
 🐱‍💻 Projects: 
-Unknown Project          1 hr 46 mins        █████████████████████████   100.0%
+Unknown Project          1 hr 54 mins        █████████████████████████   100.0%
 
 ```
 
