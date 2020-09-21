@@ -38,7 +38,7 @@ https://github.com/marketplace/actions/comment-run-actions 참고.
 
 > 🏆 638 Contributions in the Year 2020
  > 
-> 📦 316.5 kB Used in Github's Storage 
+> 📦 316.6 kB Used in Github's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -73,7 +73,7 @@ Sunday       49 commits     ██░░░░░░░░░░░░░░░�
 
 ```text
 🐱‍💻 Projects: 
-Unknown Project          1 hr 54 mins        █████████████████████████   100.0%
+Unknown Project          3 hrs 13 mins       █████████████████████████   100.0%
 
 ```
 
