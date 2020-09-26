@@ -42,7 +42,7 @@ https://github.com/marketplace/actions/comment-run-actions 참고.
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 88 Public Repositories
+> 📜 90 Public Repositories
  > 
 > 🔑 0 Private Repository 
  > 
