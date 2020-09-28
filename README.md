@@ -30,6 +30,11 @@ https://github.com/marketplace/actions/comment-run-actions 참고.
 ```
 ### Status
 
+![injoon5's github stats](https://github-readme-stats.vercel.app/api?username=injoon5&include_all_commits=True)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=injoon5&langs_count=10&layout=compact)
+<br>
+
 
 ### I'm social!!!
 
