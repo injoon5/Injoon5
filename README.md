@@ -43,6 +43,10 @@ https://github.com/marketplace/actions/comment-run-actions 참고.
 
 [<img src='https://github.githubassets.com/images/icons/emoji/octocat.png' alt='Octocat' height='40'>](https://github.com/injoon5)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg' alt='codepen' height='40'>](https://codepen.io/injoon5)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg' alt='dev.to' height='40'>](https://dev.to/injoon5)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](http://injoon5.ga) <br>
 
+# Blog posts
+
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 
 ### Jokes
 ![Jokes Card](https://readme-jokes.vercel.app/api)
