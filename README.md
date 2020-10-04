@@ -46,6 +46,8 @@ https://github.com/marketplace/actions/comment-run-actions 참고.
 ### Blog posts
 
 <!-- BLOG-POST-LIST:START -->
+- [hello i'm new!!!](https://dev.to/injoon5/hello-i-m-new-28o6)
+- [Welcome to Jekyll!](https://injoon5.github.io/hello-world/29)
 <!-- BLOG-POST-LIST:END -->
 
 ### Jokes
