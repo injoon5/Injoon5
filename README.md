@@ -1,5 +1,6 @@
 <div align="center">
 	<img width="300" height="300" src="https://avatars2.githubusercontent.com/u/52849281?s=1000&v=4 " alt="injoon5">
+	<img width="300" height="300" src="https://github.com/injoon5/Injoon5/blob/add20ba23918361ed39411106c234e96336c0acc/img/%E1%84%86%E1%85%AE%E1%84%8C%E1%85%A6%204.png?raw=true " alt="injoon5">
 	<br>
 	<p>
 		<p>
