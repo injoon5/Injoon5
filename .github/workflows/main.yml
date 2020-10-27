@@ -12,3 +12,7 @@ jobs:
       - uses: gautamkrishnar/blog-post-workflow@master
         with:
           feed_list: "https://dev.to/feed/injoon5, https://injoon5.github.io/feed.xml"
+          commit_message: ":arrow_up: 새 블로그 글 추가!"
+          commit_user_name: OIJ BOT
+          commit_user_email: injoon5@naver.com
+          commit_author: OIJ BOT <injoon5@naver.com>
