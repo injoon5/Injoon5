@@ -42,7 +42,8 @@ https://github.com/marketplace/actions/comment-run-actions 참고.
 ### I'm social!!!
 
 [<img src='https://github.githubassets.com/images/icons/emoji/octocat.png' alt='Octocat' height='40'>](https://github.com/injoon5)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg' alt='codepen' height='40'>](https://codepen.io/injoon5)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg' alt='dev.to' height='40'>](https://dev.to/injoon5)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](http://injoon5.ga) <br>
-
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg' alt='discord' height='40'>](https://discord.gg/FtQJJVr) <br>
+디스코드 친구추가: injoon5#3390
 ### Blog posts
 
 <!-- BLOG-POST-LIST:START -->
