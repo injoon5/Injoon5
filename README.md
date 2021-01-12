@@ -29,13 +29,7 @@
 https://github.com/marketplace/actions/comment-run-actions 참고.
 ```
 ### Status
-
-<a href="https://github.com/injoon5">
-  <img align="center" src="https://readmestatus.injoon5.ga/api?username=injoon5&include_all_commits=True&theme=korea&show_icons=true" />
-</a>
-<a href="https://github.com/injoon5">
-  <img align="center" src="https://readmestatus.injoon5.ga/api/top-langs/?username=injoon5&langs_count=10&layout=compact&theme=korea&show_icons=true" />
-</a>
+![Metrics](http://g.injoon5.ga/github-metrics.svg)
 <br>
 
 
