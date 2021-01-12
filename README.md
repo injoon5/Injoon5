@@ -29,9 +29,12 @@
 https://github.com/marketplace/actions/comment-run-actions 참고.
 ```
 ### Status
-![Metrics](http://g.injoon5.ga/github-metrics.svg)
-<br>
 
+<div align="center">
+	<imgsrc="http://g.injoon5.ga/github-metrics.svg" alt="injoon5">
+	<br>
+
+</div>
 
 ### I'm social!!!
 
