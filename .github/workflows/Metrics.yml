@@ -32,7 +32,7 @@ jobs:
           plugin_people_types: followers, following, thanks
           plugin_lines: yes
           plugin_skyline: yes
-          plugin_skyline_year: 0      # Set to 0 to display current year
+          plugin_skyline_year: 2021      # Set to 0 to display current year
           plugin_skyline_frames: 60   # Use 60 frames (half-loop)
           plugin_skyline_quality: 0.5 # Scale-down quality by half to reduce file-size (⚠️ higher quality increase file size)
           plugin_habits: yes
