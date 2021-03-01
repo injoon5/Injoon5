@@ -24,4 +24,23 @@ jobs:
           plugin_isocalendar_duration: full-year
           plugin_languages: yes
           plugin_stars: yes
-          plugin_stars_limit: 4
+          plugin_stars_limit: 1
+          plugin_people: yes
+          plugin_people_limit: 10
+          plugin_people_size: 10
+          plugin_people_thanks: codingPro01
+          plugin_people_types: followers, following, thanks
+          plugin_lines: yes
+          plugin_skyline: yes
+          plugin_skyline_year: 0      # Set to 0 to display current year
+          plugin_skyline_frames: 60   # Use 60 frames (half-loop)
+          plugin_skyline_quality: 0.5 # Scale-down quality by half to reduce file-size (⚠️ higher quality increase file size)
+          plugin_habits: yes
+          plugin_habits_from: 200       # Use 200 events to compute habits
+          plugin_habits_days: 14        # Keep only events from last 14 days
+          plugin_habits_facts: yes      # Display facts section
+          plugin_habits_charts: yes
+          plugin_topics: yes
+          plugin_topics_sort: stars
+          plugin_topics_limit: 10
+
