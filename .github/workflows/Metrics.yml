@@ -27,7 +27,7 @@ jobs:
           plugin_stars_limit: 1
           plugin_people: yes
           plugin_people_limit: 10
-          plugin_people_size: 10
+          plugin_people_size: 60
           plugin_people_thanks: codingPro01
           plugin_people_types: followers, following, thanks
           plugin_lines: yes
