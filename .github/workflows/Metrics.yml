@@ -28,7 +28,7 @@ jobs:
           plugin_people: yes
           plugin_people_limit: 10
           plugin_people_size: 60
-          plugin_people_thanks: codingPro01
+          plugin_people_thanks: codingPro01, angrycutebear
           plugin_people_types: followers, following, thanks
           plugin_lines: yes
           plugin_habits_from: 200       # Use 200 events to compute habits
