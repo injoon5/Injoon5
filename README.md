@@ -11,8 +11,7 @@
 	</p>
 </div>
 
-- 🔭 URL  단축기를 @codingcup04 와 
-     @sean2010과 준비하고 있습니다.(<a href="https://oijlink.glitch.me" target="_blank">Beta. Data coud be deleted.</a>) <br>
+- 🔭 망해버린 전 웹사이트를 Tailwind 를 이용하여 다시 만들고 있습니다. (<a href="https://oij.vercel.app" target="_blank">My WEB!</a>) <br>
 - 🌱 현재 C 를 배워가고 있습니다.
 - ⌐■_■ npm card : npx injoon5
 
