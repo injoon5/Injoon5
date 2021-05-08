@@ -30,7 +30,7 @@ https://github.com/marketplace/actions/comment-run-actions 참고.
 ### Status
 
 <div align="center">
-	<img src="http://g.injoon5.ga/github-metrics.svg" alt="injoon5">
+	<img src="https://raw.githubusercontent.com/injoon5/Injoon5/master/github-metrics.svg" alt="injoon5">
 	<br>
 
 </div>
