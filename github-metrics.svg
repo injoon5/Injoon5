@@ -1402,7 +1402,7 @@
                     <rect mask="url(#languages-bar)" x="381.9724451807631" y="0" width="54.7421139326078" height="8" fill="#2b7489"/>
                     <rect mask="url(#languages-bar)" x="436.71455911337085" y="0" width="13.119483561369934" height="8" fill="#3572A5"/>
                     <rect mask="url(#languages-bar)" x="449.8340426747408" y="0" width="4.997000771230255" height="8" fill="#c6538c"/>
-                    <rect mask="url(#languages-bar)" x="454.83104344597103" y="0" width="2.87030953945176" height="8" fill="#2c3e50"/>
+                    <rect mask="url(#languages-bar)" x="454.83104344597103" y="0" width="2.87030953945176" height="8" fill="#41b883"/>
                     <rect mask="url(#languages-bar)" x="457.7013529854228" y="0" width="2.298647014577204" height="8" fill="#555555"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
@@ -1431,7 +1431,7 @@
                 SCSS
               </div>
                     <div class="field center no-wrap language">
-                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill="#2c3e50" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/></svg>
+                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16"><path fill="#41b883" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/></svg>
                 Vue
               </div>
                     <div class="field center no-wrap language">
@@ -3461,7 +3461,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>decave27/ButtonPaginator</span>
-                                        <span>starred 7 hours ago</span>
+                                        <span>starred 8 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">
@@ -3558,7 +3558,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated Tue, 01 Jun 2021 18:23:52 (timezone Asia/Seoul) with lowlighter/metrics@3.10.0</span>
+                <span>Last updated Tue, 01 Jun 2021 20:03:16 (timezone Asia/Seoul) with lowlighter/metrics@3.10.0</span>
             </footer>
             <div id="metrics-end"></div>
         </div>
