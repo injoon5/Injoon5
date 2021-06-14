@@ -1458,7 +1458,7 @@
                             <div class="label" title="Django is a web application framework for Python.">django</div>
                             <div class="label" title="Azure is a cloud computing service created by Microsoft.">azure</div>
                             <div class="label" title="Chrome is a web browser from the tech company Google.">chrome</div>
-                            <div class="label" title="Chrome extension, Code quality, Bot, ASP.NET, macOS, jQuery, Code review, Command line interface, Atom, Compiler, Minecraft, Material design, COVID-19, PWA, Emoji, Discord, SwiftUI, gatsby, Vercel, discord-bot, tailwindcss, contributions, hackoctoberfest, shortener">and 24 more...</div>
+                            <div class="label" title="Chrome extension, Code quality, Bot, ASP.NET, macOS, jQuery, Command line interface, Code review, Atom, Compiler, Minecraft, Material design, COVID-19, PWA, Emoji, Discord, SwiftUI, gatsby, Vercel, discord-bot, tailwindcss, contributions, hackoctoberfest, shortener">and 24 more...</div>
                         </div>
                     </section>
                 </div>
@@ -3452,7 +3452,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>dogecoin/dogecoin</span>
-                                        <span>starred 17 hours ago</span>
+                                        <span>starred 18 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">
@@ -3549,7 +3549,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated Mon, 14 Jun 2021 15:21:37 (timezone Asia/Seoul) with lowlighter/metrics@3.10.0</span>
+                <span>Last updated Mon, 14 Jun 2021 16:21:11 (timezone Asia/Seoul) with lowlighter/metrics@3.10.0</span>
             </footer>
             <div id="metrics-end"></div>
         </div>
