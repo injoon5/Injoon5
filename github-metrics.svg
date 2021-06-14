@@ -3452,7 +3452,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>dogecoin/dogecoin</span>
-                                        <span>starred 16 hours ago</span>
+                                        <span>starred 17 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">
@@ -3549,7 +3549,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated Mon, 14 Jun 2021 14:20:28 (timezone Asia/Seoul) with lowlighter/metrics@3.10.0</span>
+                <span>Last updated Mon, 14 Jun 2021 15:21:37 (timezone Asia/Seoul) with lowlighter/metrics@3.10.0</span>
             </footer>
             <div id="metrics-end"></div>
         </div>
