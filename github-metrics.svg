@@ -3466,7 +3466,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>bitcoin/bitcoin</span>
-                                        <span>starred 9 hours ago</span>
+                                        <span>starred 10 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">
@@ -3563,7 +3563,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated Thu, 17 Jun 2021 03:21:41 (timezone Asia/Seoul) with lowlighter/metrics@3.10.0</span>
+                <span>Last updated Thu, 17 Jun 2021 04:16:24 (timezone Asia/Seoul) with lowlighter/metrics@3.10.0</span>
             </footer>
             <div id="metrics-end"></div>
         </div>
