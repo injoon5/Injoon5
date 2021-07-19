@@ -3452,7 +3452,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>phntxx/dashboard</span>
-                                        <span>starred 24 hours ago</span>
+                                        <span>starred 1 day ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">
@@ -3549,7 +3549,7 @@
                 </section>
                 <footer>
                     <span>These metrics include private contributions</span>
-                    <span>Last updated Mon, 19 Jul 2021 20:17:13 (timezone Asia/Seoul) with lowlighter/metrics@3.10.0</span>
+                    <span>Last updated Mon, 19 Jul 2021 21:30:46 (timezone Asia/Seoul) with lowlighter/metrics@3.10.0</span>
                 </footer>
                 <div id="metrics-end"></div>
             </section>
