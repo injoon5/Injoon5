@@ -3562,7 +3562,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>chubin/wttr.in</span>
-                                        <span>starred 6 hours ago</span>
+                                        <span>starred 7 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">
@@ -3659,7 +3659,7 @@
                 </section>
                 <footer>
                     <span>These metrics include private contributions</span>
-                    <span>Last updated 22/08/2021, 19:18 (timezone Asia/Seoul) with lowlighter/metrics@3.13.0</span>
+                    <span>Last updated 22/08/2021, 20:13 (timezone Asia/Seoul) with lowlighter/metrics@3.13.0</span>
                 </footer>
             </section>
             <div id="metrics-end"></div>
