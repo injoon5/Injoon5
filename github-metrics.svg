@@ -1569,7 +1569,7 @@
                             <div class="label" title="Django is a web application framework for Python.">django</div>
                             <div class="label" title="Azure is a cloud computing service created by Microsoft.">azure</div>
                             <div class="label" title="Chrome is a web browser from the tech company Google.">chrome</div>
-                            <div class="label" title="Chrome extension, Bot, Code quality, ASP.NET, Command line interface, macOS, jQuery, Code review, Atom, Compiler, Minecraft, Material design, COVID-19, PWA, Emoji, Discord, SwiftUI, gatsby, Vercel, discord-bot, tailwindcss, contributions, shortener, hackoctoberfest">and 24 more...</div>
+                            <div class="label" title="Chrome extension, Bot, Code quality, ASP.NET, Command line interface, macOS, Code review, jQuery, Atom, Compiler, Minecraft, Material design, COVID-19, PWA, Emoji, Discord, SwiftUI, gatsby, Vercel, discord-bot, tailwindcss, contributions, shortener, hackoctoberfest">and 24 more...</div>
                         </div>
                     </section>
                 </div>
@@ -3568,7 +3568,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>sherlock-project/sherlock</span>
-                                        <span>starred 1 hour ago</span>
+                                        <span>starred 2 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">
@@ -3665,7 +3665,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 31/08/2021, 19:19 (timezone Asia/Seoul) with lowlighter/metrics@3.13.0</span>
+                <span>Last updated 31/08/2021, 20:14 (timezone Asia/Seoul) with lowlighter/metrics@3.13.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
