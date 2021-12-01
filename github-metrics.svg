@@ -1731,7 +1731,7 @@
                             <div class="label" title="Django is a web application framework for Python.">django</div>
                             <div class="label" title="Azure is a cloud computing service created by Microsoft.">azure</div>
                             <div class="label" title="Chrome is a web browser from the tech company Google.">chrome</div>
-                            <div class="label" title="Bot, Chrome extension, Code quality, Command line interface, ASP.NET, macOS, Code review, jQuery, Atom, Compiler, Minecraft, COVID-19, Material design, PWA, Emoji, Discord, SwiftUI, gatsby, discord-bot, Vercel, tailwindcss, contributions, shortener, hackoctoberfest">and 24 more...</div>
+                            <div class="label" title="Bot, Chrome extension, Code quality, Command line interface, ASP.NET, Code review, macOS, jQuery, Atom, Compiler, Minecraft, COVID-19, Material design, PWA, Emoji, Discord, SwiftUI, gatsby, discord-bot, Vercel, tailwindcss, contributions, shortener, hackoctoberfest">and 24 more...</div>
                         </div>
                     </section>
                 </div>
@@ -3723,6 +3723,11 @@
                                 <path fill="#ebedf0" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
                                 <path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
                             </g>
+                            <g transform="translate(-5.1, 9)">
+                                <path fill="#ebedf0" d="M1.7,2 0,1 1.7,0 3.4,1 z"/>
+                                <path fill="#ebedf0" filter="url(#brightness1)" d="M0,1 1.7,2 1.7,2 0,1 z"/>
+                                <path fill="#ebedf0" filter="url(#brightness2)" d="M1.7,2 3.4,1 3.4,1 1.7,2 z"/>
+                            </g>
                         </g>
                     </g>
                 </svg>
@@ -3839,7 +3844,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 1 Dec 2021, 08:18:11 (timezone Asia/Seoul) with lowlighter/metrics@3.16.0</span>
+                <span>Last updated 1 Dec 2021, 10:01:48 (timezone Asia/Seoul) with lowlighter/metrics@3.16.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
