@@ -2451,7 +2451,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>Rob--W/cors-anywhere</span>
-                                        <span>starred 3 hours ago</span>
+                                        <span>starred 4 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">CORS Anywhere is a NodeJS reverse proxy which adds CORS headers to the proxied request.</div>
@@ -2519,7 +2519,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 16 Jan 2022, 01:28:31 (timezone Asia/Seoul) with lowlighter/metrics@3.17.0</span>
+                <span>Last updated 16 Jan 2022, 02:25:22 (timezone Asia/Seoul) with lowlighter/metrics@3.17.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
