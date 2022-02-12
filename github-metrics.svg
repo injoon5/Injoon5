@@ -2447,7 +2447,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>timlrx/tailwind-nextjs-starter-blog</span>
-                                        <span>starred 1 hour ago</span>
+                                        <span>starred 2 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">This is a Next.js, Tailwind CSS blogging starter template. Comes out of the box configured with the latest technologies to make technical writing a breeze. Easily configurable and customizable. Perfect as a replacement to existing Jekyll and Hugo individual blogs.</div>
@@ -2555,7 +2555,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 12 Feb 2022, 20:14:14 (timezone Asia/Seoul) with lowlighter/metrics@3.20.0</span>
+                <span>Last updated 12 Feb 2022, 21:26:22 (timezone Asia/Seoul) with lowlighter/metrics@3.20.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
