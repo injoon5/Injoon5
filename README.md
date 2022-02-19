@@ -15,12 +15,7 @@
 - 🌱 현재 C 를 배워가고 있습니다.
 - ⌐■_■ npm card : npx injoon5
 
-### MEMO
 
-```text
-이슈 자동 봇
-https://github.com/marketplace/actions/comment-run-actions 참고.
-```
 ### Status
 
 <div align="center">
