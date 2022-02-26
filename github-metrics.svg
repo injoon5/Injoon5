@@ -69,7 +69,7 @@
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                 <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                             </svg>
-                            1672 Commits
+                            1673 Commits
                         </div>
                         <div class="field">
                             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -327,14 +327,14 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="308.4542323033943" height="8" fill="#f1e05a"/>
-                    <rect mask="url(#languages-bar)" x="308.4542323033943" y="0" width="104.77217919685334" height="8" fill="#563d7c"/>
-                    <rect mask="url(#languages-bar)" x="413.22641150024765" y="0" width="34.82369464743879" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="448.05010614768645" y="0" width="8.271205313953867" height="8" fill="#2b7489"/>
-                    <rect mask="url(#languages-bar)" x="456.32131146164033" y="0" width="1.9206620663836262" height="8" fill="#3572A5"/>
-                    <rect mask="url(#languages-bar)" x="458.24197352802395" y="0" width="1.0149752682040207" height="8" fill="#c6538c"/>
-                    <rect mask="url(#languages-bar)" x="459.25694879622796" y="0" width="0.41598613855505356" height="8" fill="#41b883"/>
-                    <rect mask="url(#languages-bar)" x="459.67293493478303" y="0" width="0.32706506521700657" height="8" fill="#555555"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="308.4526593503748" height="8" fill="#f1e05a"/>
+                    <rect mask="url(#languages-bar)" x="308.4526593503748" y="0" width="104.77326666843456" height="8" fill="#563d7c"/>
+                    <rect mask="url(#languages-bar)" x="413.2259260188094" y="0" width="34.82405609623724" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="448.04998211504665" y="0" width="8.271291164041081" height="8" fill="#2b7489"/>
+                    <rect mask="url(#languages-bar)" x="456.32127327908773" y="0" width="1.920682001689261" height="8" fill="#3572A5"/>
+                    <rect mask="url(#languages-bar)" x="458.241955280777" y="0" width="1.0149858030308065" height="8" fill="#c6538c"/>
+                    <rect mask="url(#languages-bar)" x="459.25694108380776" y="0" width="0.4159904562385009" height="8" fill="#41b883"/>
+                    <rect mask="url(#languages-bar)" x="459.67293154004625" y="0" width="0.3270684599537235" height="8" fill="#555555"/>
                 </svg>
                 <div class="field center horizontal-wrap fill-width">
                     <div class="field center no-wrap language">
@@ -2447,7 +2447,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>Unitech/pm2</span>
-                                        <span>starred 24 hours ago</span>
+                                        <span>starred 1 day ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Node.js Production Process Manager with a built-in Load Balancer.</div>
@@ -2555,7 +2555,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 26 Feb 2022, 23:17:01 (timezone Asia/Seoul) with lowlighter/metrics@3.20.0</span>
+                <span>Last updated 27 Feb 2022, 00:18:02 (timezone Asia/Seoul) with lowlighter/metrics@3.20.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
