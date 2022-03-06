@@ -2452,7 +2452,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>facebook/watchman</span>
-                                        <span>starred 2 hours ago</span>
+                                        <span>starred 3 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Watches files and records, or triggers actions, when they change.</div>
@@ -2560,7 +2560,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 6 Mar 2022, 13:23:09 (timezone Asia/Seoul) with lowlighter/metrics@3.21.0</span>
+                <span>Last updated 6 Mar 2022, 14:16:24 (timezone Asia/Seoul) with lowlighter/metrics@3.21.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
