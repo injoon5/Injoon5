@@ -2422,7 +2422,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>Softmotions/iwnet</span>
-                                        <span>starred 6 hours ago</span>
+                                        <span>starred 7 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Pure C Asynchronous HTTP library with websockets, SSL, routing.</div>
@@ -2530,7 +2530,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 19 Apr 2022, 05:20:33 (timezone Asia/Seoul) with lowlighter/metrics@3.22.0</span>
+                <span>Last updated 19 Apr 2022, 06:17:27 (timezone Asia/Seoul) with lowlighter/metrics@3.22.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
