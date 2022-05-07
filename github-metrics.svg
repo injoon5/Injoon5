@@ -2447,7 +2447,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>calcom/cal.com</span>
-                                        <span>starred 11 hours ago</span>
+                                        <span>starred 12 hours ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Scheduling infrastructure for absolutely everyone.</div>
@@ -2555,7 +2555,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 7 May 2022, 13:24:30 (timezone Asia/Seoul) with lowlighter/metrics@3.23.0</span>
+                <span>Last updated 7 May 2022, 14:17:33 (timezone Asia/Seoul) with lowlighter/metrics@3.23.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
