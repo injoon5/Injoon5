@@ -407,7 +407,7 @@
                             <div class="label" title="Django is a web application framework for Python.">django</div>
                             <div class="label" title="Azure is a cloud computing service created by Microsoft.">azure</div>
                             <div class="label" title="Chrome is a web browser from the tech company Google.">chrome</div>
-                            <div class="label" title="Bot, Chrome extension, Command line interface, Code quality, ASP.NET, Code review, macOS, Atom, jQuery, Compiler, Minecraft, COVID-19, Material design, PWA, Emoji, Discord, SwiftUI, gatsby, discord-bot, Vercel, tailwindcss, contributions, hackoctoberfest, shortener">and 24 more...</div>
+                            <div class="label" title="Bot, Command line interface, Chrome extension, Code quality, ASP.NET, Code review, macOS, Atom, jQuery, Compiler, Minecraft, COVID-19, Material design, PWA, Emoji, Discord, SwiftUI, gatsby, discord-bot, Vercel, tailwindcss, contributions, hackoctoberfest, shortener">and 24 more...</div>
                         </div>
                     </section>
                 </div>
@@ -2530,7 +2530,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 20 Jun 2022, 12:18:23 (timezone Asia/Seoul) with lowlighter/metrics@3.24.0</span>
+                <span>Last updated 20 Jun 2022, 13:29:00 (timezone Asia/Seoul) with lowlighter/metrics@3.24.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
