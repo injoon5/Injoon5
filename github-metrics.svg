@@ -407,7 +407,7 @@
                             <div class="label" title="Django is a web application framework for Python.">django</div>
                             <div class="label" title="Azure is a cloud computing service created by Microsoft.">azure</div>
                             <div class="label" title="Chrome is a web browser from the tech company Google.">chrome</div>
-                            <div class="label" title="Bot, Command line interface, Chrome extension, Code quality, ASP.NET, Code review, macOS, Atom, jQuery, Compiler, Minecraft, COVID-19, Material design, PWA, Emoji, Discord, SwiftUI, gatsby, discord-bot, tailwindcss, Vercel, contributions, hackoctoberfest, shortener">and 24 more...</div>
+                            <div class="label" title="Bot, Command line interface, Chrome extension, Code quality, ASP.NET, Code review, macOS, Atom, jQuery, Compiler, Minecraft, COVID-19, Material Design, PWA, Emoji, Discord, SwiftUI, gatsby, discord-bot, tailwindcss, Vercel, contributions, hackoctoberfest, shortener">and 24 more...</div>
                         </div>
                     </section>
                 </div>
@@ -2427,7 +2427,7 @@
                                     </svg>
                                     <div class="name">
                                         <span>hpi-swa/native-minecraft-server</span>
-                                        <span>starred 3 days ago</span>
+                                        <span>starred 4 days ago</span>
                                     </div>
                                 </div>
                                 <div class="field description">Use GraalVM Native Image to turn the Minecraft server into native executables that are small in footprint, fast, and cheap to deploy.</div>
@@ -2495,7 +2495,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 7 Sept 2022, 00:22:05 (timezone Asia/Seoul) with lowlighter/metrics@3.27.0</span>
+                <span>Last updated 7 Sept 2022, 01:30:12 (timezone Asia/Seoul) with lowlighter/metrics@3.27.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
